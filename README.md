@@ -24,3 +24,5 @@ This repository does not contain the image data as it is too big to upload.
 All scripts are written in Python 3.7.
 
 Main libraries used: opencv-python, joblib, tqdm, numpy, tensorflow, scikit-learn, matplotlib, datetime
+
+If you have questions about my work, I'll be glad to answer, at: vtsr @ gmx.fr
