@@ -12,7 +12,7 @@ The fusion result which originates from a SimCLR feature extractor gave the most
 
 ## Code organization
 
-The main script is the chain.py file, which contains all functions necessary to compute clustering results based on an auroral image dataset. 
+The main script is the chain.py file, which contains all functions necessary to compute clustering results based on an auroral image dataset. The file apply_chain is readily usable to compute new labels from an existing solution.
 
 Other independent scripts are : candidates_election.py, compute_groupings.py, display_fusion_results.py, display_preprocessed_labels.py, write_readable_txt_files.py. 
 
