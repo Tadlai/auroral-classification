@@ -1,7 +1,7 @@
 # Automatic morphological classification of auroral structures
 
 This repository contains the python scripts used in my end-of-studies project, which consisted in automatically classifying auroral images based on their morphologies. You can find here the report itself as well. 
-This work was used for the following publication : [Auroral breakup detection in all-sky images by unsupervised learning] (https://doi.org/10.5194/angeo-42-103-2024)
+This work was used for the following publication : [Auroral breakup detection in all-sky images by unsupervised learning](https://doi.org/10.5194/angeo-42-103-2024)
 
 ## Abstract from the report
 
